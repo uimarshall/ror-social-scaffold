@@ -2,8 +2,8 @@
 
 # Social web app built in rails with users, posts, comments, likes and friendship functionality
 
-> In this project, we built by a social app where users can register/sign in/sign out, create posts and comments, can like other posts and request/accept friendships with other users. The project enforced our skills in using most core functionalities of the Rails framework.
-> The app is equally deplyed to Heroku, you can check the Link :point_right:https://microverse-rails-social-app.herokuapp.com/
+> In this project, we built by a social app where users can register/sign in/sign out, create posts and comments, can like other posts and request/accept friendships with other users. The project enforced our skills in using most of the core functionalities of the Rails framework.
+> The app is equally deployed to Heroku, you can check the Link :point_right:https://microverse-rails-social-app.herokuapp.com/
 
 ## App functionality
 
